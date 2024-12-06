@@ -6,7 +6,7 @@
 <base href="."/>
   <title>WJDS</title>
   <meta name="description" content="Link shorter">
-  <meta name="author" content="Marcin Malinowski">
+  <meta name="author" content="Marcin">
 <meta name="viewport" content="initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/styles.css">
 
